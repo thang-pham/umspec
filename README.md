@@ -1,6 +1,4 @@
-# Instructions on how to run the machine and expected output.
-Thang Pham <thang.g.pham@gmail.com>
-
+# How to run the machine and its expected output.
 
 ## Instructions:
 
