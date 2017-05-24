@@ -1,4 +1,4 @@
-# How to run the machine and its expected output.
+# UM-32: Universal Machine
 
 ## Instructions:
 
@@ -25,8 +25,8 @@
     OK
    ```
 
-* To run the benchmark for the machine:
-   sandmark.umz (provided) was downloaded from http://www.boundvariable.org/task.shtml.
+* To run the benchmark for the machine.
+  sandmark.umz (provided) was downloaded from http://www.boundvariable.org/task.shtml.
 
    ```
     $ ./um.py sandmark.umz
